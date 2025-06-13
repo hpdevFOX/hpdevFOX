@@ -1,16 +1,16 @@
-## Hi there 👋
+## <img src="https://hpdevfox.ru/assets/vicksy_peek.png" width="40"/> I am hpdevfox :<
+- ⚡ **18 y.o.**
+- 🌍 **RUS / ENG**
+- 💻 **RE**, 📱 **Android Modder**
 
-<!--
-**hpdevFOX/hpdevFOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  _Check this:_ [**hpdevfox.ru**](https://hpdevfox.ru)
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Active project:
+| Project | Description | URL |
+|--------|-------------|------------|
+| 🎁 MysticGSI | OEM GSI Porting Project | [t.me@mysticgsi](https://t.me/mysticgsi) |
+| 📂 MysticCloud | Storage for MysticGSI | [cloud.mysticte.ch](https://cloud.mysticte.ch) |
+| 🎰 Gene's Brawl | Brawl Stars bot | [t.me@gene_land](https://t.me/gene_land) |
+| 🩼 Chairy v2 | Markov chain bot | [t.me@chairygenbot](https://t.me/chairygenbot) |
+| 🛜 SCUtils | Bots for Brawl Stars | [t.me@SCUtilsSBOT](https://t.me/SCUtilsSBOT) |
