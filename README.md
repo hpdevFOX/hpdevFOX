@@ -1,6 +1,6 @@
 <img src="https://me.meowfox.net/assets/vicksy_peek.png" width="96" align="left" alt="vick">
 
-<a href="https://t.me/meowfoxd">
+<a href="https://t.me/adorablemeow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" align="right">
 </a>
 
